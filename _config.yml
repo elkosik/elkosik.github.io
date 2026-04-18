@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 
-title: Eena Kosik
-name: Eena Kosik
+title: Eena Kosik-Rose
+name: Eena Kosik-Rose
 email: eena.kosik@gmail.com
 locale: 'en-US'
 words_per_minute: 200
@@ -62,8 +62,8 @@ analytics:
 
 # Author Profile Settings
 author:
-  name   : "Eena Lee Kosik"
-  avatar : /assets/images/tokyo_2023.jpg
+  name   : "Eena Kosik-Rose"
+  avatar : /assets/images/eena_2026.jpg
   bio    : My name is Eena. You can read more about me in the [About me](/about/) section.
   twitter: "eena_kosik"
   linkedin: "ekosik"
