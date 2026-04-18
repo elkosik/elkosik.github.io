@@ -33,6 +33,12 @@ lunr:
 include:
   - _pages
   - assets
+  - files
+
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
 
 # exlude:
 
@@ -124,3 +130,11 @@ defaults:
       comments: false
       share: true
       related: true
+
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
