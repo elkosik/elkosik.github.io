@@ -64,31 +64,20 @@ analytics:
 author:
   name   : "Eena Kosik-Rose"
   avatar : /assets/images/eena_2026.jpg
-  bio    : My name is Eena. You can read more about me in the [About me](/about/) section.
-  twitter: "eena_kosik"
-  linkedin: "ekosik"
-  github: "elkosik"
+  bio    : "PhD Candidate. Digital Health & Wearable Physiology."
+  location: "San Diego, CA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:eena.kosik@gmail.com"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=LsgTxkEAAAAJ&hl=en&oi=ao"
 
 
 # Footer Settings
 footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/ekosik/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/eena_kosik"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/elkosik"
-    - label: "Scholar"
-      icon: "fa fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=LsgTxkEAAAAJ&hl=en&oi=ao"
+  links: []
 
 
 
@@ -128,8 +117,8 @@ defaults:
       author_profile: true
       read_time: true
       comments: false
-      share: true
-      related: true
+      share: false
+      related: false
 
   # _publications
   - scope:
