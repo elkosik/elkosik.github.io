@@ -1073,6 +1073,29 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 @media (min-width: 64em) { .wide .page__related { padding-right: 0; } }
 @media (min-width: 80em) { .wide .page__related { padding-right: 0; } }
 
+/* ========================================================================== CUSTOM OVERRIDES ========================================================================== */
+*:not(i):not(.fa):not([class^="fa"]) { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+.author__bio { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important; }
+
+html { font-size: 16px; }
+
+#news li { display: flex; gap: 1em; margin-bottom: 0.5em; list-style: none; }
+
+#news ul { padding-left: 0; }
+
+#news li .news-date { width: 100px; font-weight: bold; flex-shrink: 0; font-size: 0.85em; }
+
+#news li .news-text { flex-grow: 1; font-size: 0.85em; }
+
+.news-scroll { max-height: 12em; overflow-y: auto; scrollbar-width: thin; scrollbar-color: #ccc transparent; padding-right: 10px; }
+
+.news-scroll::-webkit-scrollbar { width: 6px; }
+
+.news-scroll::-webkit-scrollbar-track { background: transparent; }
+
+.news-scroll::-webkit-scrollbar-thumb { background-color: #ccc; border-radius: 3px; }
+
 /* ========================================================================== ARCHIVE ========================================================================== */
 .archive { margin-top: 1em; margin-bottom: 2em; }
 @media (min-width: 64em) { .archive { float: right; width: calc(100% - 200px); padding-right: 200px; } }
@@ -1286,24 +1309,3 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
   .page__hero-caption a { color: #000 !important; }
   /* Hide the following elements on print ========================================================================== */
   .masthead, .toc, .page__share, .page__related, .pagination, .ads, .page__footer, .page__comments-form, .author__avatar, .author__content, .author__urls-wrapper, .nav__list, .sidebar, .adsbygoogle { display: none !important; height: 1px !important; } }
-*:not(i):not(.fa):not([class^="fa"]) { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
-
-.author__bio { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important; }
-
-html { font-size: 16px; }
-
-#news li { display: flex; gap: 1em; margin-bottom: 0.5em; list-style: none; }
-
-#news ul { padding-left: 0; }
-
-#news li .news-date { width: 100px; font-weight: bold; flex-shrink: 0; font-size: 0.85em; }
-
-#news li .news-text { flex-grow: 1; font-size: 0.85em; }
-
-.news-scroll { max-height: 12em; overflow-y: auto; scrollbar-width: thin; scrollbar-color: #ccc transparent; padding-right: 10px; }
-
-.news-scroll::-webkit-scrollbar { width: 6px; }
-
-.news-scroll::-webkit-scrollbar-track { background: transparent; }
-
-.news-scroll::-webkit-scrollbar-thumb { background-color: #ccc; border-radius: 3px; }

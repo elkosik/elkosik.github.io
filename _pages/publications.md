@@ -19,7 +19,8 @@ Also available on [Google Scholar](https://scholar.google.com/citations?user=Lsg
 ### {{ pub_year }}
 {% endif %}
 {{ pub.title }}<br>
-<span style="font-size: 0.85em;">{{ pub.authors }}</span><br>
+{{ pub.authors }}<br>
+{% if pub.note %}<small>{{ pub.note }}</small><br>{% endif %}
 *{{ pub.venue }}*
 {% if pub.paperurl %} &nbsp;|&nbsp; [Paper]({{ pub.paperurl }}){% endif %}
 {% if pub.pdf %} &nbsp;|&nbsp; [PDF]({{ pub.pdf }}){% endif %}

@@ -21,11 +21,11 @@ Before graduate school, I worked at UCSF's [Memory and Aging Center](https://mem
   <ul>
     <li>
       <div class="news-date">Jun 2026</div>
-      <div class="news-text">Began internship on the Algorithms team at Oura!</div>
+      <div class="news-text">Began 3-month internship on the Algorithms team at Oura!</div>
     </li>
     <li>
       <div class="news-date">Apr 2026</div>
-      <div class="news-text">Preprint posted to <a href="https://doi.org/10.64898/2026.04.13.718339"><em>bioRxiv</em></a>: "Cycle-by-cycle respiration waveforms are coupled with the shape of neural oscillations".</div>
+      <div class="news-text">First-author preprint posted to <a href="https://doi.org/10.64898/2026.04.13.718339"><em>bioRxiv</em></a>: "Cycle-by-cycle respiration waveforms are coupled with the shape of neural oscillations".</div>
     </li>
     <li>
       <div class="news-date">Mar 2026</div>
@@ -36,8 +36,12 @@ Before graduate school, I worked at UCSF's [Memory and Aging Center](https://mem
       <div class="news-text">Received the <a href="https://ucsdcollab.atlassian.net/wiki/spaces/GDCP/pages/565740040/Rita+L.+Atkinson+Graduate+Fellowship">Rita L. Atkinson Graduate Fellowship</a>.</div>
     </li>
     <li>
+      <div class="news-date">Mar 2025</div>
+      <div class="news-text">Manuscript published in <a href="https://doi.org/10.1016/j.chpulm.2024.100102"><em>CHEST Pulmonary</em></a>: Sleep Parameters of Breathing and Cognitive Function in a Diverse Hispanic/Latino Cohort</div>
+    </li>
+    <li>
       <div class="news-date">Jan 2025</div>
-      <div class="news-text">Began internship on the Neuro team at Apple!</div>
+      <div class="news-text">Began 8-month internship on the Neuro team at Apple!</div>
     </li>
   </ul>
 </div>
