@@ -576,3 +576,65 @@ body {
     }
   }
 }
+
+
+/* ==========================================================================
+   CUSTOM OVERRIDES
+   ========================================================================== */
+
+*:not(i):not(.fa):not([class^="fa"]) {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.author__bio {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+html {
+  font-size: 16px;
+}
+
+// News section
+#news li {
+  display: flex;
+  gap: 1em;
+  margin-bottom: 0.5em;
+  list-style: none;
+}
+
+#news ul {
+  padding-left: 0;
+}
+
+#news li .news-date {
+  width: 100px;
+  font-weight: bold;
+  flex-shrink: 0;
+  font-size: 0.85em;
+}
+
+#news li .news-text {
+  flex-grow: 1;
+  font-size: 0.85em;
+}
+
+.news-scroll {
+  max-height: 12em;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #ccc transparent;
+  padding-right: 10px;
+}
+
+.news-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.news-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.news-scroll::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 3px;
+}
