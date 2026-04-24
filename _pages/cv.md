@@ -5,6 +5,6 @@ layout: single
 author_profile: true
 ---
 
-<meta http-equiv="refresh" content="0; url=/assets/pdf/cv.pdf">
+<meta http-equiv="refresh" content="0; url=/assets/pdf/resume.pdf">
 
-Redirecting to CV... [click here](/assets/pdf/cv.pdf) if not redirected.
+Redirecting to resume... [click here](/assets/pdf/resume.pdf) if not redirected.

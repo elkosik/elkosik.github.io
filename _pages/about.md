@@ -21,7 +21,7 @@ Before graduate school, I worked at UCSF's [Memory and Aging Center](https://mem
   <ul>
     <li>
       <div class="news-date">Jun 2026</div>
-      <div class="news-text">Began 3-month internship on the Algorithms team at Oura!</div>
+      <div class="news-text">Will begin 3-month internship on the Algorithms team at Oura!</div>
     </li>
     <li>
       <div class="news-date">Apr 2026</div>
@@ -37,7 +37,7 @@ Before graduate school, I worked at UCSF's [Memory and Aging Center](https://mem
     </li>
     <li>
       <div class="news-date">Mar 2025</div>
-      <div class="news-text">Manuscript published in <a href="https://doi.org/10.1016/j.chpulm.2024.100102"><em>CHEST Pulmonary</em></a>: Sleep Parameters of Breathing and Cognitive Function in a Diverse Hispanic/Latino Cohort</div>
+      <div class="news-text">Manuscript published in <a href="https://doi.org/10.1016/j.chpulm.2024.100102"><em>CHEST Pulmonary</em></a>: "Sleep Parameters of Breathing and Cognitive Function in a Diverse Hispanic/Latino Cohort"</div>
     </li>
     <li>
       <div class="news-date">Jan 2025</div>
