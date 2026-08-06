@@ -11,7 +11,7 @@ share: false
 
 I am a [Cognitive Science](https://cogsci.ucsd.edu/graduates/phd-program/index.html) PhD student in [Dr. Bradley Voytek's lab](https://voyteklab.com/) at the University of California, San Diego (UCSD). My research focuses on interactions between the autonomic and central nervous systems — how do respiratory and cardiac rhythms influence the brain and cognition? Using electrophysiological neural data, I develop methods to carefully quantify neural, respiratory, and cardiac rhythms to better understand brain-body relationships.
 
-During my PhD I have had the privilege of interning across many industry domains working with multi-modal bio-signal data at Apple, clinical trial wearable data at Takeda, and large-scale, qualitative survey data at Fidelity. 
+During my PhD I have had the privilege of interning across many industry domains working on novel hardware sensing capabilities at Oura, multi-modal bio-signal data at Apple, clinical trial wearable data at Takeda, and large-scale, qualitative survey data at Fidelity. 
 
 Before graduate school, I worked at UCSF's [Memory and Aging Center](https://memory.ucsf.edu/) with [Dr. Virginia Sturm](https://canlab.ucsf.edu/), studying emotion dysfunction in neurodegenerative disease via autonomic signals, MRI, and facial expression coding. I received my B.A. from [UC Berkeley](https://cogsci.berkeley.edu/home), where I completed an honors thesis in [Dr. Robert Knight's lab](https://knightlab.neuro.berkeley.edu/) on event-related potential responses in scalp and intracranial EEG.
 
