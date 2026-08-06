@@ -20,8 +20,12 @@ Before graduate school, I worked at UCSF's [Memory and Aging Center](https://mem
 <div class="news-scroll">
   <ul>
     <li>
+      <div class="news-date">Sep 2026</div>
+      <div class="news-text">Will defend her Cognitive Science PhD at UC San Diego.</div>
+    </li>
+    <li>
       <div class="news-date">Jun 2026</div>
-      <div class="news-text">Will begin 3-month internship on the Algorithms team at Oura!</div>
+      <div class="news-text">Began 3-month internship on the Algorithms team at Oura!</div>
     </li>
     <li>
       <div class="news-date">Apr 2026</div>
