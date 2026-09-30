@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 
-title: Eena Kosik-Rose
-name: Eena Kosik-Rose
+title: Eena Kosik-Rose, Ph.D.
+name: Eena Kosik-Rose, Ph.D.
 email: eena.kosik@gmail.com
 locale: 'en-US'
 words_per_minute: 200
@@ -62,9 +62,9 @@ analytics:
 
 # Author Profile Settings
 author:
-  name   : "Eena Kosik-Rose"
+  name   : "Eena Kosik-Rose, Ph.D."
   avatar : /assets/images/eena_2026.jpg
-  bio    : "PhD Candidate. Digital Health & Wearable Physiology."
+  bio    : "Research Scientist<br>Digital Health & Wearable Physiology"
   location: "San Diego, CA"
   links:
     - label: "Email"
@@ -73,6 +73,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=LsgTxkEAAAAJ&hl=en&oi=ao"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ekosikrose/"
 
 
 # Footer Settings

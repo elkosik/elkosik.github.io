@@ -638,3 +638,14 @@ html {
   background-color: #ccc;
   border-radius: 3px;
 }
+
+// Single-page anchor navigation
+html {
+  scroll-behavior: smooth;
+}
+
+#about,
+#news,
+#publications {
+  scroll-margin-top: 1em;
+}

@@ -1,5 +1,7 @@
 main:
+  - title: "about me"
+    url: /#about
+  - title: "recent news"
+    url: /#news
   - title: "publications"
-    url: /pubs/
-  - title: "resume"
-    url: /cv/
+    url: /#publications
