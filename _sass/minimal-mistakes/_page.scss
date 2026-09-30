@@ -595,25 +595,29 @@ html {
 }
 
 // News section
-#news li {
+#news li,
+#press li {
   display: flex;
   gap: 1em;
   margin-bottom: 0.5em;
   list-style: none;
 }
 
-#news ul {
+#news ul,
+#press ul {
   padding-left: 0;
 }
 
-#news li .news-date {
+#news li .news-date,
+#press li .news-date {
   width: 100px;
   font-weight: bold;
   flex-shrink: 0;
   font-size: 0.85em;
 }
 
-#news li .news-text {
+#news li .news-text,
+#press li .news-text {
   flex-grow: 1;
   font-size: 0.85em;
 }
@@ -646,6 +650,7 @@ html {
 
 #about,
 #news,
-#publications {
+#publications,
+#press {
   scroll-margin-top: 1em;
 }

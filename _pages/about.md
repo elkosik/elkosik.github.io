@@ -79,3 +79,21 @@ Also available on [Google Scholar](https://scholar.google.com/citations?user=Lsg
 
 {% endfor %}
 </section>
+
+<section id="press">
+<h2>Press</h2>
+  <ul>
+    <li>
+      <div class="news-text"><em>Nautilus</em>: <a href="https://nautil.us/the-rhythm-of-your-breath-leaves-a-fingerprint-on-your-thoughts-1285059">The Rhythm of Your Breath Leaves a Fingerprint on Your Thoughts</a></div>
+    </li>
+    <li>
+      <div class="news-text"><em>KPBS</em>: <a href="https://www.kpbs.org/news/science-technology/2026/09/10/slight-changes-in-breathing-impacts-brain-activity">UCSD study shows relationship between the brain and breathing more tightly linked</a></div>
+    </li>
+    <li>
+      <div class="news-text"><em>KPBS Evening Edition</em>: <a href="https://www.youtube.com/live/x9fswePRh6E?t=1372">TV news segment</a></div>
+    </li>
+    <li>
+      <div class="news-text"><em>UC San Diego Today</em>: <a href="https://today.ucsd.edu/story/every-breath-you-take-has-a-unique-impact-on-the-brain">Every Breath You Take Has a Unique Impact on the Brain</a></div>
+    </li>
+  </ul>
+</section>
